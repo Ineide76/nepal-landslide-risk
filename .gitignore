@@ -1,5 +1,5 @@
 #virtual environment
-land_venv/
+.land_venv/
 
 #python cache
 __pycache__/
