@@ -1,0 +1,12 @@
+#virtual environment
+land_venv/
+
+#python cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+.env
+
+#dataset
+data/
